@@ -1,18 +1,18 @@
 import { Injectable } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
-import {Post} from "../interfases/post";
 import {Observable} from "rxjs";
+import {Post} from "../interface/post";
 
 @Injectable({
   providedIn: 'root'
 })
-export class PostService {
+export class PostsService {
 
   constructor(private http: HttpClient) { }
-  getPosts(): Observable<any>{
-    return this.http.get<Post>(`https://jsonplaceholder.typicode.com/posts`);
+  getPosts(): Observable<Post>{
+    return  this.http.get<Post>(`https://jsonplaceholder.typicode.com/posts`);
   }
-  getComments(postID): Observable<any>{
+  logCom(postID): Observable<any>{
     return this.http.get(`https://jsonplaceholder.typicode.com/comments?postId=${postID}`);
   }
 }
