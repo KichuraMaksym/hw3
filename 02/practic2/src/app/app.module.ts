@@ -29,7 +29,9 @@ import {CommentComponent} from './comment/comment.component';
       {path: 'showAllUsers', component: AllUserComponent},
       {path: 'showAllPosts', component: AllPostsComponent},
       {path: 'showAllComments', component: AllCommentsComponent},
-      {path: 'posts/:id', component: AllPostsComponent}
+      {path: 'posts/:id', component: AllPostsComponent},
+      {path: 'comments/:id', component: AllCommentsComponent},
+
     ])
   ],
   providers: [ServiceService],

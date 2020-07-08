@@ -3,6 +3,8 @@ import {HttpClient} from "@angular/common/http";
 import {Observable} from "rxjs";
 import {Post} from "./interface/post";
 import {IComment} from "./interface/comment";
+import {Comment} from "@angular/compiler";
+
 @Injectable({
   providedIn: 'root'
 })
@@ -18,10 +20,16 @@ export class ServiceService {
   getAllPosts(): Observable<Post[]> {
     return this.http.get<Post[]>(`https://jsonplaceholder.typicode.com/posts`);
   }
-  getPostOfUser(userId): Observable<Post[]>{
+
+  getPostOfUser(userId): Observable<Post[]> {
     return this.http.get<Post[]>(`https://jsonplaceholder.typicode.com/posts?userId=${userId}`);
   }
+
   getAllComments(): Observable<IComment[]> {
     return this.http.get<IComment[]>(`https://jsonplaceholder.typicode.com/comments`);
+  }
+
+  getCommentOfPost(postId): Observable<IComment[]> {
+    return this.http.get<IComment[]>(`https://jsonplaceholder.typicode.com/comments?postId=${postId}`);
   }
 }
