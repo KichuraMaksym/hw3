@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="570419e6-7e89-4684-a020-65852cf54a2d" name="Default Changelist" comment="Hw 2 - User+log posts">
+    <list default="true" id="0838a142-8696-47aa-8614-ce45d0905898" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../hw02AnotherRound/.browserslistrc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw02AnotherRound/.editorconfig" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw02AnotherRound/.gitignore" afterDir="false" />
@@ -55,49 +55,49 @@
       <change afterPath="$PROJECT_DIR$/../hw02AnotherRound/tsconfig.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw02AnotherRound/tsconfig.spec.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../hw02AnotherRound/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.idea/practic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/itnerface/post.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/itnerface/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/service/user.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/user/user.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/user/user.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/user/user.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/tsconfig.base.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/tslint.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/practic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/itnerface/post.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/itnerface/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/service/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserAndPosts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UserAndPosts/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +107,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1eGvdFyezlUbYpPd0FRoAUFerAC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1eJzrxZDSdH3CyOxjm7quPL4lEz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -124,6 +126,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -135,9 +138,10 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.Angular CLI Server">
-    <configuration name="E2E Tests (UserAndPosts)" type="JavaScriptTestRunnerProtractor">
+    <configuration name="E2E Tests (practic)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
       <protractor-options value="" />
       <envs />
       <scope-kind value="ALL" />
@@ -162,22 +166,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="570419e6-7e89-4684-a020-65852cf54a2d" name="Default Changelist" comment="" />
-      <created>1593960829854</created>
+      <changelist id="0838a142-8696-47aa-8614-ce45d0905898" name="Default Changelist" comment="" />
+      <created>1594054685974</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593960829854</updated>
-      <workItem from="1593960831239" duration="4189000" />
-      <workItem from="1594054563276" duration="973000" />
+      <updated>1594054685974</updated>
+      <workItem from="1594054687880" duration="5699000" />
     </task>
-    <task id="LOCAL-00001" summary="Hw 2 - User+log posts">
-      <created>1593963362838</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1593963362838</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,20 +188,18 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hw 2 - User+log posts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hw 2 - User+log posts" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="268" y="157" key="Vcs.Push.Dialog.v2" timestamp="1593963380809">
+    <state x="640" y="348" width="438" height="375" key="org.angular.cli.generate" timestamp="1594055723391">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="268" y="157" key="Vcs.Push.Dialog.v2/0.0.1536.960@0.0.1536.960" timestamp="1593963380809" />
-    <state x="640" y="348" width="438" height="375" key="org.angular.cli.generate" timestamp="1593961498205">
+    <state x="640" y="348" width="438" height="375" key="org.angular.cli.generate/0.0.1536.960@0.0.1536.960" timestamp="1594055723391" />
+    <state x="349" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1594057732870">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="640" y="348" width="438" height="375" key="org.angular.cli.generate/0.0.1536.960@0.0.1536.960" timestamp="1593961498205" />
+    <state x="349" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1536.960@0.0.1536.960" timestamp="1594057732870" />
   </component>
 </project>
