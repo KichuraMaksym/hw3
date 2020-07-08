@@ -18,6 +18,9 @@ export class ServiceService {
   getAllPosts(): Observable<Post[]> {
     return this.http.get<Post[]>(`https://jsonplaceholder.typicode.com/posts`);
   }
+  getPostOfUser(userId): Observable<Post[]>{
+    return this.http.get<Post[]>(`https://jsonplaceholder.typicode.com/posts?userId=${userId}`);
+  }
   getAllComments(): Observable<IComment[]> {
     return this.http.get<IComment[]>(`https://jsonplaceholder.typicode.com/comments`);
   }
