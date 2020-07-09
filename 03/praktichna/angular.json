@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "practic": {
+    "praktichna": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/practic",
+            "outputPath": "dist/praktichna",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -62,18 +62,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "practic:build"
+            "browserTarget": "praktichna:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "practic:build:production"
+              "browserTarget": "praktichna:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "practic:build"
+            "browserTarget": "praktichna:build"
           }
         },
         "test": {
@@ -110,15 +110,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "practic:serve"
+            "devServerTarget": "praktichna:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "practic:serve:production"
+              "devServerTarget": "praktichna:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "practic"
+  "defaultProject": "praktichna"
 }
