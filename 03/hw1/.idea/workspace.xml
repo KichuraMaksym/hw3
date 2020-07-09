@@ -24,58 +24,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b3c3997-69f1-48cc-9ee4-fcee76ed2c89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/interface/comment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/interface/post.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.base.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/components/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/components/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/components/users/users.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/components/users/users.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/components/users/users.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/interface/comment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/interface/post.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/interface/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practic/src/app/serv.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practic/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practic/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practic/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practic/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../practic/src/app/components/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practic/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../practic/src/app/app.module.ts" afterDir="false" />
+    <list default="true" id="9b3c3997-69f1-48cc-9ee4-fcee76ed2c89" name="Default Changelist" comment="start">
+      <change afterPath="$PROJECT_DIR$/src/app/s1.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/app/app.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -111,6 +64,9 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/components/app" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/app" />
     </key>
@@ -149,7 +105,16 @@
       <option name="presentableId" value="Default" />
       <updated>1594235796940</updated>
       <workItem from="1594235798233" duration="467000" />
+      <workItem from="1594283453811" duration="6097000" />
     </task>
+    <task id="LOCAL-00001" summary="start">
+      <created>1594283652439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594283652439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,14 +130,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
     <state x="623" y="322" key="#Notifications" timestamp="1594235871051">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="623" y="322" key="#Notifications/0.0.1536.960@0.0.1536.960" timestamp="1594235871050" />
+    <state x="640" y="348" width="438" height="375" key="org.angular.cli.generate" timestamp="1594284611235">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="640" y="348" width="438" height="375" key="org.angular.cli.generate/0.0.1536.960@0.0.1536.960" timestamp="1594284611235" />
   </component>
 </project>
