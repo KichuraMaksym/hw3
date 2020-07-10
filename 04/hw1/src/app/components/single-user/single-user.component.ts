@@ -14,11 +14,23 @@ export class SingleUserComponent implements OnInit {
   // constructor(private service: UserService, private router: Router, private activatedRoute: ActivatedRoute) {
   //   this.activatedRoute.params.subscribe(value => this.service.getSingleUsers(value.id).subscribe(value1 => this.user = value1));
   // }
-  constructor() {
-    this.user = history.state.user;
+
+  // constructor() {
+  //   this.user = history.state.user;
+  // }
+
+  constructor(private activatedRoute: ActivatedRoute, private router: Router) {
+    this.activatedRoute.params.subscribe(value => {     // тут додати '?' акпкд змінними щоб не валилась помилка
+      this.user = history.state.user;
+    });
   }
 
   ngOnInit(): void {
   }
 
+  showPosts(user: IUser) {
+    this.router.navigate(['users', user.id, 'posts', user.id], {state: {user}});
+  }
 }
+
+//users/10/posts

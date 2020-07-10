@@ -4,9 +4,10 @@
 <!--  <p>User NickName: {{u.username}}</p>-->
 <!--  <p>User email: {{u.email}}</p>-->
 <!--</div>-->
-<div >
+<div  *ngIf="user">
   <p>User id: {{user.id}}</p>
   <p>User Name: {{user.name}}</p>
   <p>User NickName: {{user.username}}</p>
-  <p>User email: {{user.email}}</p>
+  <p>User email: {{user.email}} <button (click)="showPosts(user)" >Show posts</button></p>
 </div>
+<router-outlet></router-outlet>
