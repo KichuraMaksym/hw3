@@ -1,11 +1,11 @@
-import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
+import {BrowserModule} from '@angular/platform-browser';
+import {NgModule} from '@angular/core';
 
-import { AppComponent } from './components/app/app.component';
+import {AppComponent} from './components/app/app.component';
 import {HttpClientModule} from '@angular/common/http';
 import {RouterModule} from '@angular/router';
-import { AllUsersComponent } from './components/all-users/all-users.component';
-import { SingleUserComponent } from './components/single-user/single-user.component';
+import {AllUsersComponent} from './components/all-users/all-users.component';
+import {SingleUserComponent} from './components/single-user/single-user.component';
 
 @NgModule({
   declarations: [
@@ -17,12 +17,16 @@ import { SingleUserComponent } from './components/single-user/single-user.compon
     BrowserModule,
     HttpClientModule,
     RouterModule.forRoot([
-      {path: 'users', component: AllUsersComponent},
+      {
+        path: 'users', component: AllUsersComponent, children: [
+          {path: ':id', component: SingleUserComponent},
+        ]
+      },
       {path: 'hide', component: AppComponent},
-      {path: 'users/:id', component: SingleUserComponent},
     ])
   ],
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+}

@@ -12,4 +12,7 @@ export class UserService {
   getUsers(): Observable<IUser[]>{
     return this.Http.get<IUser[]>(`https://jsonplaceholder.typicode.com/users`);
   }
+  getSingleUsers(userid): Observable<IUser>{
+    return this.Http.get<IUser>(`https://jsonplaceholder.typicode.com/users/${userid}`);
+  }
 }
