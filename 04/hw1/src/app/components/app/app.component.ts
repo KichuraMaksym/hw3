@@ -13,4 +13,8 @@ export class AppComponent {
   showAllUsers(): void {
   this.router.navigate( ['users']);
   }
+
+  hide() {
+    this.router.navigate(['']);
+  }
 }
