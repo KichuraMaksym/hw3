@@ -1,0 +1,6 @@
+<div *ngFor="let u of users ">
+  {{u.name}} - -
+  {{u.username}} - -
+  <button (click)="toUserDetails(u)">About user</button>
+</div>
+<router-outlet></router-outlet>
