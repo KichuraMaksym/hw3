@@ -25,8 +25,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b3c3997-69f1-48cc-9ee4-fcee76ed2c89" name="Default Changelist" comment="12">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/components/all-comment/all-comment.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/components/all-comment/all-comment.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/components/all-comment/all-comment.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/components/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/components/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/components/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/app/serw.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/tsconfig.base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw3/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktichna/src/app/components/all-user/all-user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktichna/src/app/components/all-user/all-user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktichna/src/app/components/all-user/all-user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktichna/src/app/components/one-user/one-user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktichna/src/app/components/one-user/one-user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praktichna/src/app/components/one-user/one-user.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1v2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw1v2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../praktichna/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../praktichna/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../praktichna/src/app/components/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../praktichna/src/app/components/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../praktichna/src/app/serw.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../praktichna/src/app/serw.service.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +146,7 @@
       <updated>1594235796940</updated>
       <workItem from="1594235798233" duration="467000" />
       <workItem from="1594283453811" duration="7009000" />
+      <workItem from="1594312600079" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <created>1594283652439</created>
